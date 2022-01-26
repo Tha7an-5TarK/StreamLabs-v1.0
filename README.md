@@ -37,7 +37,7 @@ StreamLabs is a movie/series streaming application that uses web scraping techni
 
 
 * Usually, we use to pay for streaming services or need to download the whole file in order to watch the movie/series:dizzy_face:
-* Instead, this application helps us to stream the movie directly without any need to download the file. In case needed, can download the movie/series using the same application later, as the download option is provided :sunglasses:
+* Instead, this application helps us to stream the movie directly without any need to download the file. In case needed, can download the file using the same application later, as the download option is provided :sunglasses:
 
 
 ## Built With
